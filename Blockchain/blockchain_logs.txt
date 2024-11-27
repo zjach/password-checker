@@ -1,0 +1,57 @@
+2024-11-27 10:19:42,457 - New block added: {'index': 1, 'timestamp': 1732682982.457096, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:19:42,457 - New transaction added: Alice -> Bob, Amount: 50
+2024-11-27 10:19:42,457 - New transaction added: Bob -> Charlie, Amount: 25
+2024-11-27 10:19:42,504 - New block added: {'index': 2, 'timestamp': 1732682982.5045743, 'transactions': [{'sender': 'Alice', 'recipient': 'Bob', 'amount': 50}, {'sender': 'Bob', 'recipient': 'Charlie', 'amount': 25}], 'proof': 35293, 'previous_hash': 'a54094a5920f46003f5c7846677e2b80bb62c5a7762df02928e856b905af4047'}
+2024-11-27 10:19:42,504 - New transaction added: Charlie -> David, Amount: 10
+2024-11-27 10:19:42,552 - New block added: {'index': 3, 'timestamp': 1732682982.55218, 'transactions': [{'sender': 'Charlie', 'recipient': 'David', 'amount': 10}], 'proof': 35089, 'previous_hash': '57affefda77c6dec179dfaff14cbbed52bba2ebf415d242a1424fc897ecbeb2d'}
+2024-11-27 10:19:44,136 - New block added: {'index': 1, 'timestamp': 1732682984.1367242, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:19:50,613 - New block added: {'index': 1, 'timestamp': 1732682990.6135423, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:19:50,803 - New block added: {'index': 1, 'timestamp': 1732682990.80328, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:22:13,842 - New block added: {'index': 1, 'timestamp': 1732683133.8428447, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:22:13,842 - New transaction added: password -> strong, Amount: 17
+2024-11-27 10:22:13,842 - Password added to blockchain: StrongPassword123 -> strong
+2024-11-27 10:22:15,223 - New block added: {'index': 1, 'timestamp': 1732683135.2231364, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:22:20,520 - New block added: {'index': 1, 'timestamp': 1732683140.5208514, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:22:21,322 - New block added: {'index': 1, 'timestamp': 1732683141.3222282, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:22:21,337 - New transaction added: password -> Weak, Amount: 9
+2024-11-27 10:22:21,337 - Password added to blockchain: password7 -> Weak
+2024-11-27 10:23:26,107 - New block added: {'index': 1, 'timestamp': 1732683206.1074023, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:23:26,107 - New transaction added: password -> strong, Amount: 17
+2024-11-27 10:23:26,107 - Password added to blockchain: StrongPassword123 -> strong
+2024-11-27 10:23:27,351 - New block added: {'index': 1, 'timestamp': 1732683207.351729, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:23:33,586 - New block added: {'index': 1, 'timestamp': 1732683213.586742, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:23:33,806 - New block added: {'index': 1, 'timestamp': 1732683213.8067348, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:23:33,822 - New transaction added: password -> Weak, Amount: 9
+2024-11-27 10:23:33,822 - Password added to blockchain: password8 -> Weak
+2024-11-27 10:26:44,631 - New block added: {'index': 1, 'timestamp': 1732683404.6313696, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:26:44,646 - New transaction added: password -> strong, Amount: 17
+2024-11-27 10:26:44,646 - Password added to blockchain: StrongPassword123 -> strong
+2024-11-27 10:26:46,516 - New block added: {'index': 1, 'timestamp': 1732683406.516668, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:26:51,475 - New block added: {'index': 1, 'timestamp': 1732683411.475696, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:26:51,696 - New block added: {'index': 1, 'timestamp': 1732683411.6962037, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:26:51,727 - New transaction added: password -> Weak, Amount: 9
+2024-11-27 10:26:51,727 - Password added to blockchain: password9 -> Weak
+2024-11-27 10:26:59,057 - New block added: {'index': 1, 'timestamp': 1732683419.057831, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:26:59,262 - New block added: {'index': 1, 'timestamp': 1732683419.2625306, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:26:59,278 - New transaction added: password -> Weak, Amount: 10
+2024-11-27 10:26:59,278 - Password added to blockchain: password10 -> Weak
+2024-11-27 10:27:14,263 - New block added: {'index': 1, 'timestamp': 1732683434.2638676, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:27:14,454 - New block added: {'index': 1, 'timestamp': 1732683434.454153, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:27:14,469 - New transaction added: password -> Weak, Amount: 10
+2024-11-27 10:27:14,469 - Password added to blockchain: password11 -> Weak
+2024-11-27 10:34:28,233 - New block added: {'index': 1, 'timestamp': 1732683868.2334154, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:34:28,233 - New transaction added: password -> strong, Amount: 17
+2024-11-27 10:34:28,233 - Password added to blockchain: StrongPassword123 -> strong
+2024-11-27 10:34:29,488 - New block added: {'index': 1, 'timestamp': 1732683869.4880521, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:34:35,134 - New block added: {'index': 1, 'timestamp': 1732683875.1342149, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:34:35,338 - New block added: {'index': 1, 'timestamp': 1732683875.3388307, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:34:35,370 - New transaction added: password -> Weak, Amount: 6
+2024-11-27 10:34:35,370 - Password added to blockchain: check1 -> Weak
+2024-11-27 10:34:51,079 - New block added: {'index': 1, 'timestamp': 1732683891.0797527, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:34:51,301 - New block added: {'index': 1, 'timestamp': 1732683891.3016205, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:34:51,317 - New transaction added: password -> Weak, Amount: 6
+2024-11-27 10:34:51,317 - Password added to blockchain: check2 -> Weak
+2024-11-27 10:35:03,332 - New block added: {'index': 1, 'timestamp': 1732683903.3322105, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:35:07,970 - New block added: {'index': 1, 'timestamp': 1732683907.9707944, 'transactions': [], 'proof': 100, 'previous_hash': '1'}
+2024-11-27 10:35:07,986 - New transaction added: password -> Weak, Amount: 6
+2024-11-27 10:35:07,986 - Password added to blockchain: check3 -> Weak
